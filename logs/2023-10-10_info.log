@@ -1,0 +1,31 @@
+[INFO]customsLog.py:54-11:44:46.990---------------------CASE START---------------------------
+[INFO]customsLog.py:58-11:44:47.033-TestCase: testCase01_demo of class TestPro
+[INFO]customsLog.py:59-11:44:47.034-Describe: 主流程
+[INFO]test_demo.py:23-11:44:47.034-前置：清空文件协作用户
+[INFO]customsLog.py:54-11:45:11.236---------------------CASE START---------------------------
+[INFO]customsLog.py:58-11:45:11.271-TestCase: testCase01_demo of class TestPro
+[INFO]customsLog.py:59-11:45:11.271-Describe: 主流程
+[INFO]test_demo.py:23-11:45:11.273-前置：清空文件协作用户
+[INFO]test_demo.py:26-11:45:11.305-请求被测服务接口
+[INFO]test_demo.py:39-11:45:11.306-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:41-11:45:11.367-校验fileApp桩收到的消息
+[INFO]test_demo.py:48-11:45:11.368-fileApp桩服务回复正常消息
+[INFO]customsLog.py:61-11:45:13.369---------------------CASE END---------------------------
+[INFO]customsLog.py:54-11:45:13.371---------------------CASE START---------------------------
+[INFO]customsLog.py:58-11:45:13.372-TestCase: testCase02_demo of class TestPro
+[INFO]customsLog.py:59-11:45:13.373-Describe: 三方服务处理超时，校验被测服务超时机制
+[INFO]test_demo.py:63-11:45:13.374-前置：清空文件协作用户
+[INFO]test_demo.py:66-11:45:13.407-请求被测服务接口
+[INFO]test_demo.py:79-11:45:13.408-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:81-11:45:13.425-校验fileApp桩收到的消息
+[INFO]test_demo.py:89-11:45:17.427-fileApp桩服务回复正常消息
+[INFO]customsLog.py:61-11:45:19.429---------------------CASE END---------------------------
+[INFO]customsLog.py:54-11:45:19.430---------------------CASE START---------------------------
+[INFO]customsLog.py:58-11:45:19.431-TestCase: testCase03_demo of class TestPro
+[INFO]customsLog.py:59-11:45:19.431-Describe: 三方服务返回异常状态码403
+[INFO]test_demo.py:104-11:45:19.432-前置：清空文件协作用户
+[INFO]test_demo.py:107-11:45:19.464-请求被测服务接口
+[INFO]test_demo.py:120-11:45:19.466-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:122-11:45:19.479-校验fileApp桩收到的消息
+[INFO]test_demo.py:129-11:45:19.481-fileApp桩服务回复处理异常，状态码403
+[INFO]customsLog.py:61-11:45:21.482---------------------CASE END---------------------------

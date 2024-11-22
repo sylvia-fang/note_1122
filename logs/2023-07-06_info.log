@@ -1,0 +1,104 @@
+[INFO]test_demo.py:21-14:48:52.035-前置：清空文件协作用户
+[INFO]test_demo.py:21-14:49:21.278-前置：清空文件协作用户
+[INFO]test_demo.py:24-14:49:21.324-请求被测服务接口
+[INFO]test_demo.py:37-14:49:21.325-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:39-14:49:21.370-校验fileApp桩收到的消息
+[INFO]test_demo.py:21-14:50:26.152-前置：清空文件协作用户
+[INFO]test_demo.py:24-14:50:26.224-请求被测服务接口
+[INFO]test_demo.py:37-14:50:26.225-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:39-14:50:26.269-校验fileApp桩收到的消息
+[INFO]test_demo.py:21-14:51:01.564-前置：清空文件协作用户
+[INFO]test_demo.py:24-14:51:01.632-请求被测服务接口
+[INFO]test_demo.py:37-14:51:01.633-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:39-14:51:01.673-校验fileApp桩收到的消息
+[INFO]test_demo.py:21-14:52:58.329-前置：清空文件协作用户
+[INFO]test_demo.py:24-14:52:58.405-请求被测服务接口
+[INFO]test_demo.py:37-14:52:58.406-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:39-14:52:58.446-校验fileApp桩收到的消息
+[INFO]test_demo.py:46-14:52:58.447-fileApp桩服务回复正常消息
+[INFO]test_demo.py:22-14:53:38.220-前置：清空文件协作用户
+[INFO]test_demo.py:25-14:53:38.290-请求被测服务接口
+[INFO]test_demo.py:38-14:53:38.291-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:40-14:53:38.333-校验fileApp桩收到的消息
+[INFO]test_demo.py:47-14:53:38.334-fileApp桩服务回复正常消息
+[INFO]test_demo.py:22-14:56:48.330-前置：清空文件协作用户
+[INFO]test_demo.py:25-14:56:48.415-请求被测服务接口
+[INFO]test_demo.py:38-14:56:48.416-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:40-14:56:48.469-校验fileApp桩收到的消息
+[INFO]test_demo.py:48-14:56:53.471-fileApp桩服务回复正常消息
+[INFO]test_demo.py:23-15:00:39.075-前置：清空文件协作用户
+[INFO]test_demo.py:26-15:00:39.141-请求被测服务接口
+[INFO]test_demo.py:39-15:00:39.143-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:41-15:00:39.208-校验fileApp桩收到的消息
+[INFO]test_demo.py:48-15:00:39.209-fileApp桩服务回复正常消息
+[INFO]test_demo.py:63-15:00:41.210-前置：清空文件协作用户
+[INFO]test_demo.py:66-15:00:41.241-请求被测服务接口
+[INFO]test_demo.py:79-15:00:41.242-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:81-15:00:41.267-校验fileApp桩收到的消息
+[INFO]test_demo.py:89-15:00:45.269-fileApp桩服务回复正常消息
+[INFO]test_demo.py:104-15:00:47.271-前置：清空文件协作用户
+[INFO]test_demo.py:107-15:00:47.300-请求被测服务接口
+[INFO]test_demo.py:120-15:00:47.301-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:122-15:00:47.308-校验fileApp桩收到的消息
+[INFO]test_demo.py:130-15:00:51.310-fileApp桩服务回复处理异常，状态码403
+[INFO]test_demo.py:23-15:02:36.766-前置：清空文件协作用户
+[INFO]test_demo.py:26-15:02:36.828-请求被测服务接口
+[INFO]test_demo.py:39-15:02:36.831-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:41-15:02:36.898-校验fileApp桩收到的消息
+[INFO]test_demo.py:48-15:02:36.899-fileApp桩服务回复正常消息
+[INFO]test_demo.py:63-15:02:38.902-前置：清空文件协作用户
+[INFO]test_demo.py:66-15:02:38.933-请求被测服务接口
+[INFO]test_demo.py:79-15:02:38.934-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:81-15:02:38.962-校验fileApp桩收到的消息
+[INFO]test_demo.py:89-15:02:42.965-fileApp桩服务回复正常消息
+[INFO]test_demo.py:104-15:02:44.967-前置：清空文件协作用户
+[INFO]test_demo.py:107-15:02:44.992-请求被测服务接口
+[INFO]test_demo.py:120-15:02:44.993-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:122-15:02:45.002-校验fileApp桩收到的消息
+[INFO]test_demo.py:129-15:02:45.002-fileApp桩服务回复处理异常，状态码403
+[INFO]test_demo.py:23-15:03:37.728-前置：清空文件协作用户
+[INFO]test_demo.py:26-15:03:37.795-请求被测服务接口
+[INFO]test_demo.py:39-15:03:37.796-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:41-15:03:37.838-校验fileApp桩收到的消息
+[INFO]test_demo.py:48-15:03:37.839-fileApp桩服务回复正常消息
+[INFO]test_demo.py:63-15:03:39.840-前置：清空文件协作用户
+[INFO]test_demo.py:66-15:03:39.875-请求被测服务接口
+[INFO]test_demo.py:79-15:03:39.877-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:81-15:03:39.898-校验fileApp桩收到的消息
+[INFO]test_demo.py:89-15:03:43.900-fileApp桩服务回复正常消息
+[INFO]test_demo.py:104-15:03:45.902-前置：清空文件协作用户
+[INFO]test_demo.py:107-15:03:45.929-请求被测服务接口
+[INFO]test_demo.py:120-15:03:45.931-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:122-15:03:45.960-校验fileApp桩收到的消息
+[INFO]test_demo.py:129-15:03:45.960-fileApp桩服务回复处理异常，状态码403
+[INFO]customsLog.py:54-15:06:22.574---------------------CASE START---------------------------
+[INFO]customsLog.py:58-15:06:22.613-TestCase: testCase01 of class TestPro
+[INFO]customsLog.py:59-15:06:22.614-Describe: None
+[INFO]customsLog.py:61-15:06:22.615---------------------CASE END---------------------------
+[INFO]customsLog.py:54-15:06:55.569---------------------CASE START---------------------------
+[INFO]customsLog.py:58-15:06:55.606-TestCase: testCase01_demo of class TestPro
+[INFO]customsLog.py:59-15:06:55.609-Describe: 主流程
+[INFO]test_demo.py:23-15:06:55.610-前置：清空文件协作用户
+[INFO]test_demo.py:26-15:06:55.637-请求被测服务接口
+[INFO]test_demo.py:39-15:06:55.638-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:41-15:06:55.694-校验fileApp桩收到的消息
+[INFO]test_demo.py:48-15:06:55.695-fileApp桩服务回复正常消息
+[INFO]customsLog.py:61-15:06:57.697---------------------CASE END---------------------------
+[INFO]customsLog.py:54-15:06:57.697---------------------CASE START---------------------------
+[INFO]customsLog.py:58-15:06:57.698-TestCase: testCase02_demo of class TestPro
+[INFO]customsLog.py:59-15:06:57.699-Describe: 三方服务处理超时，校验被测服务超时机制
+[INFO]test_demo.py:63-15:06:57.699-前置：清空文件协作用户
+[INFO]test_demo.py:66-15:06:57.733-请求被测服务接口
+[INFO]test_demo.py:79-15:06:57.734-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:81-15:06:57.741-校验fileApp桩收到的消息
+[INFO]test_demo.py:89-15:07:01.744-fileApp桩服务回复正常消息
+[INFO]customsLog.py:61-15:07:03.745---------------------CASE END---------------------------
+[INFO]customsLog.py:54-15:07:03.745---------------------CASE START---------------------------
+[INFO]customsLog.py:58-15:07:03.746-TestCase: testCase03_demo of class TestPro
+[INFO]customsLog.py:59-15:07:03.747-Describe: 三方服务返回异常状态码403
+[INFO]test_demo.py:104-15:07:03.747-前置：清空文件协作用户
+[INFO]test_demo.py:107-15:07:03.771-请求被测服务接口
+[INFO]test_demo.py:120-15:07:03.775-被测服务校验文件是否存在，请求file服务(桩)，桩接收消息
+[INFO]test_demo.py:122-15:07:03.803-校验fileApp桩收到的消息
+[INFO]test_demo.py:129-15:07:03.804-fileApp桩服务回复处理异常，状态码403
+[INFO]customsLog.py:61-15:07:05.808---------------------CASE END---------------------------
